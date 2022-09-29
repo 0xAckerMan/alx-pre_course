@@ -3,4 +3,4 @@ git commit -m 'How to be up to date in git'
 git push
 git innit
 git branch
-git checkout master
+git checkout
